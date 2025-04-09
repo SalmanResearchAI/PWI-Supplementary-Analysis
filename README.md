@@ -79,11 +79,3 @@ IADIS International Conference on e-Health, 2025.
 
 ---
 
-## 📫 Contact
-
-For questions or collaboration, contact:
-
-**Dr. Ravishankar Sharma** – ravishankar.sharma@zu.ac.ae  
-
----
-
