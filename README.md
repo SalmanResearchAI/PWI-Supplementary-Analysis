@@ -5,10 +5,6 @@ This repository hosts the **Online Annex** for the conference paper titled
 
 It contains supplementary figures, extended observations, and data analysis supporting the paper’s findings. These materials were moved from the main manuscript due to space limitations and are provided here to enhance transparency and reproducibility.
 
-🔗 **Full paper DOI**: *(to be added if published)*  
-📄 **Annex file**: [`PWI_Online_Annex_Final.docx`](./Annex/PWI_Online_Annex_Final.docx)  
-📊 **Visualizations Folder**: [`./Figures`](./Figures)
-
 ---
 
 ## 📑 Contents of This Repository
@@ -17,12 +13,10 @@ It contains supplementary figures, extended observations, and data analysis supp
 
 The annex includes:
 - Extended analysis of IoMT data (EDA, PRV, RR)
-- Section 5: *Analysis of IoMT Data* (shifted from main article)
+- Section 5: *Analysis of IoMT Data* (shifted from the main article)
 - Figure interpretations from March 01 to March 08
 - Physiological state transitions (rest, active, distressed)
 - Real-world use-case interpretation using PWI scoring
-
-➡️ See [`PWI_Online_Annex_Final.docx`](./Annex/PWI_Online_Annex_Final.docx)
 
 ---
 
