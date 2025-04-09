@@ -1,4 +1,4 @@
-# 📘 Online Annex: Supplementary Analysis for "Introducing a Physiological Wellness Index (PWI)"
+# Online Annex: Supplementary Analysis for "Introducing a Physiological Wellness Index (PWI)"
 
 This repository hosts the **Online Annex** for the conference paper titled  
 **"Introducing a Physiological Wellness Index (PWI) for Health and Well-Being"**.  
@@ -7,20 +7,20 @@ It contains supplementary figures, extended observations, and data analysis supp
 
 ---
 
-## 📑 Contents of This Repository
+## Contents of This Repository
 
-### 1. 📄 Online Annex (Word Document)
+### 1. Online Annex (Word Document)
 
 The annex includes:
 - Extended analysis of IoMT data (EDA, PRV, RR)
-- Section 5: *Analysis of IoMT Data* (shifted from the main article)
+- Section 5: *Analysis of IoMT Data* (some visualizations shifted from the main article)
 - Figure interpretations from March 01 to March 08
 - Physiological state transitions (rest, active, distressed)
 - Real-world use-case interpretation using PWI scoring
 
 ---
 
-### 2. 📊 Supplementary Visualizations
+### 2. Supplementary Visualizations
 
 Each observation day includes **two sets of figures**:
 - **Interpolated Data** – smoothed curves for trend analysis
@@ -46,24 +46,19 @@ Each figure shows synchronized trends for:
 
 ---
 
-## 📘 Section 5 – IoMT Analysis
+## Section 5 – IoMT Analysis
 
-> Section 5 of the paper, which includes a detailed discussion of the physiological observations and PWI score interpretations, has been relocated to the [Online Annex](./Annex/PWI_Online_Annex_Final.docx). It includes:
+> Section 5 of the paper, which includes a detailed discussion of the physiological observations and PWI score interpretations, some of its parts have been relocated.
+> It includes:
 
 - Detailed daily breakdowns (March 1, 2, 3, 5, 8)
-- Correlation between EDA, PRV, RR during stress
+- Correlation between EDA, PRV, and RR during stress
 - Use-case illustration of PWI detecting distressed states
 - PWI score mapping with real-time physiological data
 
 ---
 
-## 🔍 Extended Observations (Optional)
-
-> Further in-depth notes for March 02, 05, and 08 are embedded in the annex file. You may also view raw analysis notes in [`extended_observations.md`](./extended_observations.md) *(if included in repo)*.
-
----
-
-## 📢 Citation and Usage
+## Citation and Usage
 
 If you use or refer to the materials here, please cite the paper:
 
